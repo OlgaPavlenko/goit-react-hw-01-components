@@ -1,0 +1,21 @@
+.transactionHistory {
+  width: 700px;
+  border: 1px;
+  border-radius: 5px;
+  border-color: lightgrey;
+  text-align: center;
+}
+
+.header {
+  text-transform: uppercase;
+  background-color: teal;
+  color: white;
+}
+
+tr {
+  color: gray;
+}
+
+tr:nth-child(even) {
+  background-color: lightgray;
+}

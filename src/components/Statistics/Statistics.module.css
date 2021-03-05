@@ -1,0 +1,34 @@
+.statistics {
+  width: 360px;
+  text-align: center;
+  border-color: lightslategrey;
+  border-style: solid;
+  border-radius: 5px;
+}
+/* 
+.statList {
+  margin-bottom: 0;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
+  width: 40px;
+  height: 40px;
+  background-color: rgb(5, 121, 167);
+  border-color: lightgray;
+  border-style: solid;
+  border-width: 0.5px;
+} */
+
+.container {
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  justify-content: center;
+  padding-inline-start: 0px;
+}
+
+.title {
+  text-transform: uppercase;
+  color: rgb(80, 83, 83);
+}

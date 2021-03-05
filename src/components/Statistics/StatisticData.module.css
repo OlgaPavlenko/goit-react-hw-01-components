@@ -1,0 +1,25 @@
+.statList {
+  margin-bottom: 0;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
+  width: 40px;
+  height: 40px;
+  background-color: rgb(5, 121, 167);
+  border-color: lightgray;
+  border-style: solid;
+  border-width: 0.5px;
+}
+
+.label {
+  margin-bottom: 5px;
+  text-align: center;
+  color: aliceblue;
+}
+
+.percentage {
+  font-size: 22px;
+  text-align: center;
+  color: aliceblue;
+}
