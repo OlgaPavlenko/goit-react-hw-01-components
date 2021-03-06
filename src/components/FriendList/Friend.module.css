@@ -24,3 +24,7 @@
   color: black;
   font-weight: bold;
 }
+
+.info {
+  display: flex;
+}
